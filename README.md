@@ -1,5 +1,7 @@
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
+You have to change file name 'firebase example.js' to 'firebase.js' and fill config by your  data.
+
 ## Available Scripts
 
 In the project directory, you can run:
